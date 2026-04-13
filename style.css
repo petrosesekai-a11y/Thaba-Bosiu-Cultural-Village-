@@ -91,13 +91,8 @@ button {
 	cursor: pointer;
 }
 button:hover {
-	background-color: #004d4d;
+	background-color: white;
 }
-h1 {
-	background-image: url("images/Leso.jpg");
-	background-size: cover;
-	background-repeat: repeat;
-	background-position: center;
 }
  h2 {
 	width: 1366px;
